@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.conteaner{
+    display: flex;
+    width: calc(100% - 300px);
+    background-color: teal;
+    margin: auto;
+    
+}
+
+.row{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+a{
+    text-decoration: none;
+}
+
+
+   
+
+
